@@ -1,0 +1,3031 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ICALENDAR-RS
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190902T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190902T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190902T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 06
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190903T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190903T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 06, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC5D                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190903T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv - Auditorium 
+ Syd, Nørre Alle 51: Nørre Allè 51-57.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190903T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190903T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - Auditorium Syd, Nørre Alle 51: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC87                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190903T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190903T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190903T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6C2                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190903T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190903T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190903T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BE                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190903T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190905T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190905T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190905T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv – NBB 01.H.
+ 142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels Bohr Bygningen	.\nHold / S
+ tudent Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190905T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190905T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.H.142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8F                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190905T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190905T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190905T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:C4780782B5CE764C90E9D422D40246AC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190905T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190906T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190906T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F712                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190906T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190906T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190906T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F75C                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190906T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Lektiecafe.\nUnderviser / Staff
+ : Rørdam, Mikael.\nLokale / Room: øv - A112, Universitetsparken 5, HCØ: 
+ Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hold 
+ 02;
+DTEND;TZID=Europe/Copenhagen:20190909T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190909T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - A112, Universitetsparken 5, HCØ: Universitetsparken 5 / H.C
+ . Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Lektiecafe
+TRANSP:OPAQUE
+UID:D13F98F41A1FD430A049FCD0738C2769                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190909T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190909T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190909T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190909T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 06
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190910T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190910T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 06, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC5D                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190910T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv - Auditorium 
+ Syd, Nørre Alle 51: Nørre Allè 51-57.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190910T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190910T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - Auditorium Syd, Nørre Alle 51: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC87                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190910T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190910T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190910T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6C2                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190910T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190910T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190910T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BE                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190910T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190912T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190912T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190912T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv – NBB 01.H.
+ 142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels Bohr Bygningen	.\nHold / S
+ tudent Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190912T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190912T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.H.142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8F                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190912T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190912T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190912T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:C4780782B5CE764C90E9D422D40246AC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190912T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190913T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190913T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F712                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190913T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190913T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190913T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F75C                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190913T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Lektiecafe.\nUnderviser / Staff
+ : Rørdam, Mikael.\nLokale / Room: øv - A112, Universitetsparken 5, HCØ: 
+ Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hold 
+ 02;
+DTEND;TZID=Europe/Copenhagen:20190916T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190916T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - A112, Universitetsparken 5, HCØ: Universitetsparken 5 / H.C
+ . Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Lektiecafe
+TRANSP:OPAQUE
+UID:D13F98F41A1FD430A049FCD0738C2769                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190916T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190916T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190916T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190916T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 06
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190917T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190917T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 06, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC5D                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190917T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv - Auditorium 
+ Syd, Nørre Alle 51: Nørre Allè 51-57.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190917T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190917T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - Auditorium Syd, Nørre Alle 51: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC87                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190917T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190917T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190917T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6C2                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190917T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190917T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190917T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BE                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190917T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190919T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190919T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190919T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv – NBB 01.H.
+ 142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels Bohr Bygningen	.\nHold / S
+ tudent Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190919T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190919T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.H.142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8F                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190919T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190919T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190919T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:C4780782B5CE764C90E9D422D40246AC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190919T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190920T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190920T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F712                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190920T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190920T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190920T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F75C                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190920T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Lektiecafe.\nUnderviser / Staff
+ : Rørdam, Mikael.\nLokale / Room: øv - A112, Universitetsparken 5, HCØ: 
+ Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hold 
+ 02;
+DTEND;TZID=Europe/Copenhagen:20190923T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190923T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - A112, Universitetsparken 5, HCØ: Universitetsparken 5 / H.C
+ . Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Lektiecafe
+TRANSP:OPAQUE
+UID:D13F98F41A1FD430A049FCD0738C2769                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190923T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190923T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190923T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190923T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 06
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190924T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190924T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 06, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC5D                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190924T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv - Auditorium 
+ Syd, Nørre Alle 51: Nørre Allè 51-57.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190924T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190924T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - Auditorium Syd, Nørre Alle 51: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC87                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190924T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190924T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190924T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6C2                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190924T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190924T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190924T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BE                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190924T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190926T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190926T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190926T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv – NBB 01.H.
+ 142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels Bohr Bygningen	.\nHold / S
+ tudent Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190926T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190926T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.H.142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8F                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190926T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190926T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190926T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:C4780782B5CE764C90E9D422D40246AC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190926T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190927T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190927T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F712                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190927T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190927T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190927T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F75C                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190927T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Lektiecafe.\nUnderviser / Staff
+ : Rørdam, Mikael.\nLokale / Room: øv - A111, Universitetsparken 5, HCØ: 
+ Universitetsparken 5 / H.C. Ørsted Instituttet, øv - A112, Universitetspa
+ rken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stud
+ ent Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20190930T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190930T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - A111, Universitetsparken 5, HCØ: Universitetsparken 5 / H.C
+ . Ørsted Instituttet, øv - A112, Universitetsparken 5, HCØ: Universitets
+ parken 5 / H.C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Lektiecafe
+TRANSP:OPAQUE
+UID:D13F98F41A1FD430A049FCD0738C2793                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190930T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20190930T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20190930T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20190930T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 06
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191001T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191001T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 06, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC5D                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191001T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv - Auditorium 
+ Syd, Nørre Alle 51: Nørre Allè 51-57.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191001T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191001T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - Auditorium Syd, Nørre Alle 51: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC87                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191001T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191001T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191001T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6C2                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191001T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20191001T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191001T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BE                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191001T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191003T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191003T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191003T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv – NBB 01.H.
+ 142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels Bohr Bygningen	.\nHold / S
+ tudent Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191003T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191003T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.H.142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8F                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191003T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191003T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191003T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:C4780782B5CE764C90E9D422D40246AC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191003T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191004T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191004T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F712                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191004T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20191004T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191004T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F75C                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191004T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20191007T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191007T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191007T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 06
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191008T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191008T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 06, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC5D                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191008T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv - Auditorium 
+ Syd, Nørre Alle 51: Nørre Allè 51-57.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191008T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191008T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - Auditorium Syd, Nørre Alle 51: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC87                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191008T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191008T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191008T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6C2                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191008T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20191008T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191008T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BE                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191008T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191010T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191010T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191010T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv – NBB 01.H.
+ 142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels Bohr Bygningen	.\nHold / S
+ tudent Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191010T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191010T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.H.142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8F                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191010T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191010T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191010T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:C4780782B5CE764C90E9D422D40246AC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191010T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191011T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191011T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F712                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191011T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20191011T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191011T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F75C                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191011T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20191021T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191021T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191021T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 06
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191022T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191022T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 06, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC5D                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191022T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv - Auditorium 
+ Syd, Nørre Alle 51: Nørre Allè 51-57.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191022T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191022T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - Auditorium Syd, Nørre Alle 51: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC87                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191022T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191022T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191022T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6C2                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191022T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20191022T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191022T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F6BE                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191022T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191024T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191024T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191024T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnder
+ viser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: øv – NBB 01.H.
+ 142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels Bohr Bygningen	.\nHold / S
+ tudent Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191024T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191024T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.H.142, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Øvelse
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8F                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191024T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191024T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191024T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:C4780782B5CE764C90E9D422D40246AC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191024T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: R
+ ørdam, Mikael.\nLokale / Room: øv – NBB 01.I.156, Jagtvej 128: Jagtvej 
+ 128, 2200 Kbh N, Niels Bohr Bygningen.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191025T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191025T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv – NBB 01.I.156, Jagtvej 128: Jagtvej 128, 2200 Kbh N, Niels 
+ Bohr Bygningen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Øvelse
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F712                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191025T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Analyse 2 (An2).\nBeskrivelse / Descripti
+ on: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Sta
+ ff: Rørdam, Mikael.\nLokale / Room: aud - Aud 01, Universitetsparken 5, HC
+ Ø: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: H
+ old 02;
+DTEND;TZID=Europe/Copenhagen:20191025T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191025T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 01, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Analyse 2 (An2) - Forelæsning
+TRANSP:OPAQUE
+UID:98B8FEEC5C500AAA3800411AE065F75C                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191025T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 06
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191029T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191029T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 06, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC5D                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191029T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191031T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191031T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:32A717D6E8A6533A13AC8F715353BC8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191031T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\n
+ Underviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 04
+ , Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutt
+ et.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191031T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191031T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Forelæsning
+TRANSP:OPAQUE
+UID:C4780782B5CE764C90E9D422D40246AC                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191031T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Kompleks funktionsteori (KomAn).\nBeskriv
+ else / Description: - .\nUndervisningstype / Activity Type: Spørgetime.\nU
+ nderviser / Staff: Pedersen, Henrik Laurberg.\nLokale / Room: aud - Aud 06,
+  Universitetsparken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Institutte
+ t.\nHold / Student Set: Hold 02;
+DTEND;TZID=Europe/Copenhagen:20191105T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191105T080000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 06, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B1-1E19;Kompleks funktionsteori (KomAn) - Spørgetime
+TRANSP:OPAQUE
+UID:C4780782B5CE764C90E9D422D40246AE                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191105T08000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20191118T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191118T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CB6                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191118T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191118T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191118T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F01                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191118T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser
+  / Staff: Wiuf, Carsten.\nLokale / Room: bi - 2-0-17, Ole Maaløes Vej 5 (B
+ iocenter): Ole Maaløes Vej 5 / Biocentret.\nHold / Student Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191118T170000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191118T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:bi - 2-0-17, Ole Maaløes Vej 5 (Biocenter): Ole Maaløes Vej 5 / 
+ Biocentret
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Øvelse
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F33                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191118T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: Wa
+ hl, Nathalie.\nLokale / Room: øv - AB Teori 2, Nørre Alle 55: Nørre All
+ è 51-57.\nHold / Student Set: Hold 01;
+DTEND;TZID=Europe/Copenhagen:20191119T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191119T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - AB Teori 2, Nørre Alle 55: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Øvelse
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CF9                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191119T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191120T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191120T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F69                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191120T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191120T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191120T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191120T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20191122T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191122T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CE8                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191122T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20191125T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191125T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CB6                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191125T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191125T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191125T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F01                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191125T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser
+  / Staff: Wiuf, Carsten.\nLokale / Room: bi - 2-0-17, Ole Maaløes Vej 5 (B
+ iocenter): Ole Maaløes Vej 5 / Biocentret.\nHold / Student Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191125T170000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191125T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:bi - 2-0-17, Ole Maaløes Vej 5 (Biocenter): Ole Maaløes Vej 5 / 
+ Biocentret
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Øvelse
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F33                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191125T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: Wa
+ hl, Nathalie.\nLokale / Room: øv - AB Teori 2, Nørre Alle 55: Nørre All
+ è 51-57.\nHold / Student Set: Hold 01;
+DTEND;TZID=Europe/Copenhagen:20191126T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191126T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - AB Teori 2, Nørre Alle 55: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Øvelse
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CF9                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191126T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191127T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191127T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F69                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191127T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191127T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191127T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191127T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20191129T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191129T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CE8                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191129T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20191202T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191202T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CB6                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191202T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191202T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191202T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F01                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191202T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser
+  / Staff: Wiuf, Carsten.\nLokale / Room: bi - 2-0-17, Ole Maaløes Vej 5 (B
+ iocenter): Ole Maaløes Vej 5 / Biocentret.\nHold / Student Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191202T170000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191202T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:bi - 2-0-17, Ole Maaløes Vej 5 (Biocenter): Ole Maaløes Vej 5 / 
+ Biocentret
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Øvelse
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F33                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191202T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: Wa
+ hl, Nathalie.\nLokale / Room: øv - AB Teori 2, Nørre Alle 55: Nørre All
+ è 51-57.\nHold / Student Set: Hold 01;
+DTEND;TZID=Europe/Copenhagen:20191203T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191203T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - AB Teori 2, Nørre Alle 55: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Øvelse
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CF9                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191203T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191204T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191204T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F69                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191204T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191204T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191204T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191204T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20191206T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191206T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CE8                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191206T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20191209T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191209T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CB6                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191209T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191209T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191209T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F01                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191209T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser
+  / Staff: Wiuf, Carsten.\nLokale / Room: bi - 2-0-17, Ole Maaløes Vej 5 (B
+ iocenter): Ole Maaløes Vej 5 / Biocentret.\nHold / Student Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191209T170000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191209T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:bi - 2-0-17, Ole Maaløes Vej 5 (Biocenter): Ole Maaløes Vej 5 / 
+ Biocentret
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Øvelse
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F33                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191209T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: Wa
+ hl, Nathalie.\nLokale / Room: øv - AB Teori 2, Nørre Alle 55: Nørre All
+ è 51-57.\nHold / Student Set: Hold 01;
+DTEND;TZID=Europe/Copenhagen:20191210T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191210T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - AB Teori 2, Nørre Alle 55: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Øvelse
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CF9                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191210T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191211T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191211T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F69                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191211T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191211T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191211T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191211T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20191213T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191213T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CE8                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191213T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20191216T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191216T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CB6                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191216T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191216T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191216T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F01                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191216T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser
+  / Staff: Wiuf, Carsten.\nLokale / Room: bi - 2-0-17, Ole Maaløes Vej 5 (B
+ iocenter): Ole Maaløes Vej 5 / Biocentret.\nHold / Student Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191216T170000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191216T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:bi - 2-0-17, Ole Maaløes Vej 5 (Biocenter): Ole Maaløes Vej 5 / 
+ Biocentret
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Øvelse
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F33                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191216T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: Wa
+ hl, Nathalie.\nLokale / Room: øv - AB Teori 2, Nørre Alle 55: Nørre All
+ è 51-57.\nHold / Student Set: Hold 01;
+DTEND;TZID=Europe/Copenhagen:20191217T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191217T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - AB Teori 2, Nørre Alle 55: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Øvelse
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CF9                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191217T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191218T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191218T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F69                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191218T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20191218T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191218T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191218T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20191220T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20191220T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CE8                                       
+                                                                            
+                                                                            
+                                                                            
+                         20191220T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20200103T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200103T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CE8                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200103T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20200106T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200106T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CB6                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200106T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20200106T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200106T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F01                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200106T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser
+  / Staff: Wiuf, Carsten.\nLokale / Room: bi - 2-0-17, Ole Maaløes Vej 5 (B
+ iocenter): Ole Maaløes Vej 5 / Biocentret.\nHold / Student Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20200106T170000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200106T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:bi - 2-0-17, Ole Maaløes Vej 5 (Biocenter): Ole Maaløes Vej 5 / 
+ Biocentret
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Øvelse
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F33                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200106T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: Wa
+ hl, Nathalie.\nLokale / Room: øv - AB Teori 2, Nørre Alle 55: Nørre All
+ è 51-57.\nHold / Student Set: Hold 01;
+DTEND;TZID=Europe/Copenhagen:20200107T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200107T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - AB Teori 2, Nørre Alle 55: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Øvelse
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CF9                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200107T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20200108T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200108T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F69                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200108T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20200108T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200108T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200108T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20200110T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200110T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CE8                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200110T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20200113T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200113T100000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CB6                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200113T10000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20200113T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200113T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F01                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200113T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser
+  / Staff: Wiuf, Carsten.\nLokale / Room: bi - 2-0-17, Ole Maaløes Vej 5 (B
+ iocenter): Ole Maaløes Vej 5 / Biocentret.\nHold / Student Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20200113T170000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200113T150000
+LAST-MODIFIED:20191111T050120
+LOCATION:bi - 2-0-17, Ole Maaløes Vej 5 (Biocenter): Ole Maaløes Vej 5 / 
+ Biocentret
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Øvelse
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F33                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200113T15000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: Wa
+ hl, Nathalie.\nLokale / Room: øv - AB Teori 2, Nørre Alle 55: Nørre All
+ è 51-57.\nHold / Student Set: Hold 01;
+DTEND;TZID=Europe/Copenhagen:20200114T160000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200114T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:øv - AB Teori 2, Nørre Alle 55: Nørre Allè 51-57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Øvelse
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CF9                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200114T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20200115T100000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200115T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F69                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200115T09000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Mål og integralteori (MI).\nBeskrivelse 
+ / Description: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnder
+ viser / Staff: Wiuf, Carsten.\nLokale / Room: aud - Aud 02, Universitetspar
+ ken 5, HCØ: Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Stude
+ nt Set: Hold 06;
+DTEND;TZID=Europe/Copenhagen:20200115T150000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200115T130000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 02, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Mål og integralteori (MI) - Forelæsning
+TRANSP:OPAQUE
+UID:087F1035A90D3891A574FF9C23859F8B                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200115T13000020191111T050120
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191111T050120
+DESCRIPTION:Aktivitet / Activity: Topologi (Top).\nBeskrivelse / Descriptio
+ n: - .\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staf
+ f: Wahl, Nathalie.\nLokale / Room: aud - Aud 04, Universitetsparken 5, HCØ
+ : Universitetsparken 5 / H.C. Ørsted Instituttet.\nHold / Student Set: Hol
+ d 01;
+DTEND;TZID=Europe/Copenhagen:20200117T120000
+DTSTAMP:20191111T050120
+DTSTART;TZID=Europe/Copenhagen:20200117T090000
+LAST-MODIFIED:20191111T050120
+LOCATION:aud - Aud 04, Universitetsparken 5, HCØ: Universitetsparken 5 / H
+ .C. Ørsted Instituttet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5010-B2-2E19;Topologi (Top) - Forelæsning
+TRANSP:OPAQUE
+UID:9F02793F61B0A8C12FB8FB9C0A787CE8                                       
+                                                                            
+                                                                            
+                                                                            
+                         20200117T09000020191111T050120
+END:VEVENT
+END:VCALENDAR
+
